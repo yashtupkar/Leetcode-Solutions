@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0605-can-place-flowers](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
