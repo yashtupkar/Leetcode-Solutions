@@ -31,8 +31,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
