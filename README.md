@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0605-can-place-flowers](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
