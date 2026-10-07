@@ -4,21 +4,20 @@ public:
        int n = nums.size();
         int left=0;
         int right = n-1;
-        int pos = n-1;
+  
 
-       vector<int> res(n);
+       vector<int> res(n,0);
  
-        for(int i=0 ;i<nums.size(); i++){
-        int leftSquare = nums[left]*nums[left];
-        int rightSquare = nums[right]*nums[right];
-           if(leftSquare>rightSquare){
-            res[pos] = leftSquare;
+        for(int i=n-1 ;i>=0; --i){
+      
+           if(abs(nums[left])>abs(nums[right])){
+            res[i] = nums[left]*nums[left];
             left++;
            }else{
-            res[pos]=rightSquare;
+            res[i]=nums[right]*nums[right];
             right--;
            }
-           pos--;
+          
         }
    
         return res;
