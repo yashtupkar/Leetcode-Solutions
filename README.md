@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0605-can-place-flowers](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
