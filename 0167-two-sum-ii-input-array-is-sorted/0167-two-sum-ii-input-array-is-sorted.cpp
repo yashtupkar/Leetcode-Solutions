@@ -1,25 +1,21 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& numbers, int target) {
-         int left =0;
-         int right = numbers.size()-1;
+     vector<int> twoSum(vector<int>& numbers, int target) {
+        std::int32_t left{};
+        auto right = static_cast<std::int32_t>(numbers.size() - 1);
 
-
-         while(left<right){
-            int sum = numbers[left]+numbers[right];
-            if (sum == target){
-                return {left+1, right+1};
+        while (right > left) {
+            std::int32_t sum{numbers.at(right) + numbers.at(left)};
+            if (sum == target) {
+                break;
             }
-            else if(sum<target){
-                left++;
-            }else{
-                right--;
+            if (sum > target) { //  2.2
+                --right;
+            } else { //  2.3
+                ++left;
             }
-
-         }
-
-          return {};
-
-        
+        }
+        return {left + 1, right + 1};
     }
+
 };
