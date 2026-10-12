@@ -1,45 +1,31 @@
-
 class Solution {
 public:
     int maxVowels(string s, int k) {
-        int vowelCount = 0;
+        // Step 1: Define a constant-time vowel check
+        auto isVowel = [](char c) {
+            return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+        };
 
-        // Count vowels in the first window
+        // Step 2: Count vowels in the first window
+        int count = 0;
         for (int i = 0; i < k; i++) {
-            if (s[i] == 'a' || s[i] == 'e' ||
-                s[i] == 'i' || s[i] == 'o' ||
-                s[i] == 'u') {
-                vowelCount++;
-            }
+            if (isVowel(s[i])) count++;
         }
 
-        int maxVowel = vowelCount;
+        int answer = count;
+        if (answer == k) return k;
 
-        // Slide the window
-        for (int i = k; i < s.length(); i++) {
+        // Step 3: Slide the fixed-size window
+        for (int i = k; i < s.size(); i++) {
+            count += isVowel(s[i]);
+            count -= isVowel(s[i - k]);
 
-            // Remove the outgoing character
-            if (s[i - k] == 'a' || s[i - k] == 'e' ||
-                s[i - k] == 'i' || s[i - k] == 'o' ||
-                s[i - k] == 'u') {
-                vowelCount--;
-            }
-
-            // Add the incoming character
-            if (s[i] == 'a' || s[i] == 'e' ||
-                s[i] == 'i' || s[i] == 'o' ||
-                s[i] == 'u') {
-                vowelCount++;
-            }
-
-            maxVowel = max(maxVowel, vowelCount);
-
-            // Optional optimization: maximum possible is k
-            if (maxVowel == k) {
-                return k;
-            }
+            // Step 4: Update the maximum and stop if possible
+            answer = max(answer, count);
+            if (answer == k) return k;
         }
 
-        return maxVowel;
+        // Step 5: Return the maximum vowel count
+        return answer;
     }
 };
