@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
