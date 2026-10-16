@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -226,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
