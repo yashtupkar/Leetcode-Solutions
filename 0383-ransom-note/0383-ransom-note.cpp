@@ -1,23 +1,17 @@
-
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char, int> mp;
+        int charCount[26] = {0};
 
-        // Count available letters in magazine
-        for (char ch : magazine) {
-            mp[ch]++;
+        for(char c : magazine){
+            charCount[c - 'a']++;
         }
 
-        // Use letters to construct ransomNote
-        for (char ch : ransomNote) {
-            if (mp[ch] == 0) {
-                return false;
-            }
-
-            mp[ch]--;
+        for(char c : ransomNote){
+            charCount[c - 'a']--;
+            
+            if(charCount[c -'a'] < 0) return false;
         }
-
         return true;
     }
 };
