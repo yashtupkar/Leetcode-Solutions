@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3866-first-unique-even-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [3866-first-unique-even-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3866-first-unique-even-element](https://github.com/yashtupkar/Leetcode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
