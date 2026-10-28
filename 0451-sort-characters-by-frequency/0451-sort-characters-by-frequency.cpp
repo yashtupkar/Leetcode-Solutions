@@ -1,27 +1,18 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char, int> freq;
-
-        for(char c: s){
-            freq[c]++;
+        vector<int> freq(128, 0);
+        for (char c : s) freq[c]++;
+        vector<char> chars;
+        for (int c = 0; c < 128; c++) {
+            if (freq[c]) chars.push_back((char)c);
         }
-        vector<vector<char>> bucket(s.size()+1);
-
-        for (auto &p : freq){
-            bucket[p.second].push_back(p.first);
-        }
-
-        string ans = "";
-
-        for (int i = s.size(); i>=1; i--){
-            for(char c: bucket[i]){
-                ans+=string(freq[c],c);
-            }
-        }
-
-
-
-        return ans;
+        sort(chars.begin(), chars.end(), [&](char a, char b) {
+            return freq[a] > freq[b];
+        });
+        string res;
+        res.reserve(s.size());
+        for (char c : chars) res.append(freq[c], c);
+        return res;
     }
 };
